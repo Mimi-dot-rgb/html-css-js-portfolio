@@ -349,16 +349,15 @@ a:hover{
   /* PROJECTS SECTION */
   
   #projects {
-    position: relative;
-    padding: 30rem;
-    height: auto;
-    display: flex;
-    margin-top: 3rem;
-    flex-direction: row;
-    align-items: center;
-    gap: 1rem;
-    box-sizing: border-box;
-    margin: 2rem auto;
+     position: sticky;
+     padding: 30rem;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: flex-start;
+     margin: 2rem auto;
+     max-width: 1200px;
   }
   
   .color-container {
