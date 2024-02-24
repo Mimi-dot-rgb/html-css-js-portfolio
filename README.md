@@ -1,6 +1,6 @@
 My Portfolio
 
-This repository contains the code for my personal portfolio website. It showcases my skills, projects, work experience, and ways to contact me.
+This repository contains the code for my personal portfolio website. It showcases my skills, projects, work experience, and ways to contact me. inspire from https://www.youtube.com/watch?v=ldwlOzRvYOU&t=1076s&ab_channel=HowtoBecomeaDeveloper this video tutorial and ChatGPT was used to fix bugs.
 
 ## Structure
 
@@ -25,3 +25,4 @@ This repository contains the code for my personal portfolio website. It showcase
 - JavaScript
 
 Website of the portfolio: https://unrivaled-bunny-546d82.netlify.app/
+
